@@ -1,0 +1,21 @@
+{
+	"auto_complete_on_tab": true,
+	"color_scheme": "Packages/User/SublimeLinter/base16-eighties.dark (SL).tmTheme",
+	"folder_exclude_patterns":
+	[
+		".git",
+		"log",
+		"tmp/cache",
+		".vagrant"
+	],
+	"font_size": 9,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 7,
+	"line_padding_top": 7,
+	"tab_size": 4,
+	"theme": "Spacegray Eighties.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

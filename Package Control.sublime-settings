@@ -1,0 +1,41 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AutoCompleteJS",
+		"Better Completion",
+		"BracketHighlighter",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"CTags",
+		"DocBlockr",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Git",
+		"Http Requester",
+		"JavaScript & NodeJS Snippets",
+		"JavaScript Completions",
+		"JavaScript Snippets",
+		"jQuery",
+		"JS Snippets",
+		"JsFormat",
+		"JSHint",
+		"MarkdownEditing",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"RailsCasts Colour Scheme",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeERB",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeREPL",
+		"SublimeTmpl",
+		"SyncedSideBar",
+		"Theme - Spacegray"
+	]
+}
