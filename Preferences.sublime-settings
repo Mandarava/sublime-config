@@ -11,10 +11,12 @@
 	"font_size": 10,
 	"ignored_packages":
 	[
+		"JsFormat",
 		"Vintage"
 	],
-	"line_padding_bottom": 7,
-	"line_padding_top": 7,
+	"line_padding_bottom": 6,
+	"line_padding_top": 6,
+	"show_encoding": true,
 	"tab_size": 4,
 	"theme": "Spacegray Eighties.sublime-theme",
 	"translate_tabs_to_spaces": true

@@ -1,0 +1,11 @@
+// These settings override both User and Default settings for the JavaScript syntax
+{
+    "tab_size": 2,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "trim_automatic_white_space": true,
+    "default_line_ending": "LF",
+    "show_encoding": true,
+    "show_line_endings": true,
+    "ensure_newline_at_eof_on_save": true,
+}
