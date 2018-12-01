@@ -1,0 +1,8 @@
+{
+    "enable_mathjax": true,
+    "enable_uml": true,
+    "github_inject_header_ids": true,
+    "enable_autoreload": true,
+    "image_path_conversion": "relative",
+    "file_path_conversions": "relative"
+}
